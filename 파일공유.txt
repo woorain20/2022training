@@ -3,3 +3,5 @@
 아까도 이걸로했는데.... 이전
 
 public static main(String[] args){
+//닫는 중괄호를 안했네 ㅋㅋㅋㅋ
+}
