@@ -1,1 +1,5 @@
 내용 없음
+
+아까도 이걸로했는데.... 이전
+
+public static main(String[] args){
